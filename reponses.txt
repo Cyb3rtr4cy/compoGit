@@ -1,0 +1,4 @@
+a- git pull recupere les dernieres modifications et les fusionnent avec la branche locale alors que git fetch recupere 
+b-Pour annuler les modifications ,il faut utiliser la commande git stach pour enregistrer temporairement 
+c-on utilise la branche git push origin --delete suivi du nom de la branche 
+d-on utilise la commande git log suivi du nom du fichier  
